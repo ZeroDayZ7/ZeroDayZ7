@@ -8,4 +8,4 @@
 - ⚡ My favorite TV show is Prison Break.
   
 ### AGV-MAN is an application for managing robots, written in Python using Tkinter.
-![IMAGE](https://i.ibb.co/zNrWJ4g/20230220-124429-kopia.jpg)
+![IMAGE](https://i.ibb.co/McT8vQR/20230220-124429-kopia.jpg)
