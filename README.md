@@ -3,11 +3,11 @@
 **Fullstack Developer | Next.js • Express • TypeScript**
 
 <a href="mailto:zerodayz7@proton.me">
-<img src="https://img.shields.io/badge/Email-ZeroDayZ7%40proton.me-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/[Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-ZeroDayZ7%40proton.me-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://zerodayz7.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Check-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Portfolio-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
 
 <div align="center">
 
