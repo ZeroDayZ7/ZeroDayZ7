@@ -4,17 +4,20 @@
 
 ---
 <a href="mailto:zerodayz7@proton.me">
-<img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-[&nbsp;&nbsp;ZeroDayZ7%40proton.me&nbsp;&nbsp;]-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+<img width="60%" src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-[&nbsp;&nbsp;ZeroDayZ7%40proton.me&nbsp;&nbsp;]-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
 </a>
 <br>
 <a href="https://zerodayz7.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-000000?style=flat&logo=github&logoColor=white" alt="Email" />
+<img width="60%" src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-000000?style=flat&logo=github&logoColor=white" alt="Email" />
 </a>
 <div align="center">
 
 ---
+<a href="https://zerodayz7.github.io/portfolio/readme" target="_blank" rel="noopener noreferrer">
+<img width="60%" src="https://img.shields.io/badge/Live Version-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-000000?style=flat&logo=github&logoColor=white" alt="Email" />
+</a>
 
-<img width="80%" src="intro.gif" alt="Email" />
+<img width="60%" src="intro.gif" alt="Email" />
 <!-- ![Intro](intro.gif) -->
 
 ---
