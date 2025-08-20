@@ -1,4 +1,4 @@
-<div align="left" style="flex flex-row">   
+<div align="center">   
 
 # ZeroDayZ7
 
@@ -17,13 +17,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" alt="Redis" />
 </div>
-
-
-
     <img style="width: 100%" src="intro.gif" />
-
-
-
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
