@@ -4,7 +4,7 @@
 
 ---
 <a href="mailto:zerodayz7@proton.me">
-<img width="60%" src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-[&nbsp;&nbsp;ZeroDayZ7%40proton.me&nbsp;&nbsp;]-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+<img width="60%" src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]-[&nbsp;&nbsp;ZeroDayZ7%40proton.me&nbsp;&nbsp;]-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
 </a>
 <br>
 <a href="https://zerodayz7.github.io/portfolio/">
