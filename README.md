@@ -1,13 +1,16 @@
-<div align="center">   
 
 # ZeroDayZ7
 
 **Fullstack Developer | Next.js • Express • TypeScript**
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  <a href="mailto:zerodayz7@proton.me"><img src="https://img.shields.io/badge/Email-zerodayz7%40pm.me-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</div>
+
+  <a href="mailto:zerodayz7@proton.me">
+  <img src="https://img.shields.io/badge/Email-zerodayz7%40pm.me-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://zerodayz7.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Check-000000?style=flat&logo=protonmail&logoColor=white" alt="Email" />
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff" alt="Express" />
@@ -23,7 +26,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </div>  
-</div>
 
 ---
 
