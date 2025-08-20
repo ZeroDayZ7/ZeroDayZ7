@@ -16,9 +16,14 @@
 
 ---
 
-![Intro](intro.gif)
+<img width="140%" src="intro.gif" alt="Email" />
+<!-- ![Intro](intro.gif) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </div>
+
+---
 
 [![My Skills](https://skillicons.dev/icons?i=regex,github,git,mysql,js,nodejs,react,express,nextjs,nodejs,npm,nuxtjs,pnpm,powershell,cs,html,css,bootstrap,php,ps,pr,sequelize,tailwind,ts,vite,vitest,vscode,vue,windows,aiscript,arduino,autocad,bash,debian,discord,docker,electron,gmail,go,jquery,linux,md,mint,redhat)](https://skillicons.dev)
