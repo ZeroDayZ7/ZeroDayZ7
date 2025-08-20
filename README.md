@@ -14,7 +14,7 @@
 
 ---
 
-<img width="120%" src="intro.gif" alt="Email" />
+<img width="80%" src="intro.gif" alt="Email" />
 <!-- ![Intro](intro.gif) -->
 
 ---
