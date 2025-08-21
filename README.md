@@ -7,7 +7,7 @@
 </a>
 <br>
 <a href="https://zerodayz7.github.io/portfolio/">
-<img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;Portfolio&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
 </a>
 <div align="center">
 
