@@ -22,7 +22,7 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=86400&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=0&hide_border=true)
 </div>
 
 ---
