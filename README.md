@@ -9,20 +9,23 @@
 <a href="https://zerodayz7.github.io/portfolio/">
 <img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;Portfolio&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
 </a>
+
+---
+
+> **Building a decentralized civic administration system** that redefines how a country is managed — transparent, efficient, and free from unnecessary bureaucracy.  
+>
+> My mission is to create a **citizen-first digital platform** where identity, communication, and public services are unified in one secure ecosystem.  
+>
+> The goal is simple: **less politics, more transparency, and smarter governance.**  
+>
+> This project — *obywatel_app* — is not just software. It’s a foundation for a **digital state**, where technology replaces outdated processes and citizens regain control over their data and public interactions.
+
+
+---
 <div align="center">
 
----
-<a href="https://zerodayz7.github.io/portfolio/readme">
-<img src="https://img.shields.io/badge/Live Version-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
-</a>
-<br>
-<a href="https://zerodayz7.github.io/portfolio/readme"> 
-<img width="60%" src="intro.gif" alt="Email" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=86400&hide_border=true)
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=3600&hide_border=true)
 </div>
 
 ---
