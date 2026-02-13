@@ -12,23 +12,27 @@
 
 ---
 
-> **Building a decentralized civic administration system** that redefines how a country is managed — transparent, efficient, and free from unnecessary bureaucracy.  
->
-> My mission is to create a **citizen-first digital platform** where identity, communication, and public services are unified in one secure ecosystem.  
->
-> The goal is simple: **less politics, more transparency, and smarter governance.**  
->
-> This project — *obywatel_app* — is not just software. It’s a foundation for a **digital state**, where technology replaces outdated processes and citizens regain control over their data and public interactions.
+Focused on:
+- scalable architecture  
+- clean UI / UX  
+- performance  
+- pragmatic engineering decisions  
 
+I like turning complex ideas into **working, testable systems**.
 
----
+## Tech I Use
+
+TypeScript, React, Next.js, Node, Express, Go, SQL, Docker and whatever gets the job done.
+
+<!-- ---
+
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=86400&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 ### Exploring
 
-[![My Skills](https://skillicons.dev/icons?i=regex,github,git,mysql,js,nodejs,react,express,nextjs,nodejs,npm,nuxtjs,pnpm,powershell,cs,html,css,bootstrap,php,ps,pr,sequelize,tailwind,ts,vite,vitest,vscode,vue,windows,aiscript,arduino,autocad,bash,debian,discord,docker,electron,gmail,go,jquery,linux,md,mint,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,mysql,js,nodejs,react,express,nextjs,nodejs,npm,nuxtjs,pnpm,powershell,cs,html,css,php,ps,pr,sequelize,tailwind,ts,vscode,vue,windows,aiscript,arduino,autocad,bash,debian,discord,docker,electron,gmail,go,jquery,linux,md,mint,redhat)](https://skillicons.dev)
