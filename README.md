@@ -21,7 +21,7 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
 * **Cloud-Native Networking:** Advanced troubleshooting of **CNI (Flannel)** and **Tailscale Mesh VPN** integration, including resolving **Netfilter/Firewalld** isolation and complex routing conflicts.
 * **Modern Backend:** Architecting high-concurrency microservices in **Go (Fiber)** and high-performance, memory-safe system applications in **Rust (Axum)**.
 
------
+---
 
 ### **Technical Stack**
 
@@ -31,13 +31,13 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
   * **Data Stores:** Redis, MySQL, PostgreSQL, MongoDB.
   * **Frontend:** Next.js, React, Tailwind CSS, Flutter.
 
------
+---
 
 ### **Core Infrastructure Highlights**
 
  I maintain a private **K3s cluster** with a fully automated **GitOps pipeline**. All services are deployed via **ArgoCD** with strict environment separation (Staging/Production) and professional secret management.
 
------
+---
 
 
 ### **Technological Evolution**
@@ -50,7 +50,7 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
 
 ---
 
-## 🤝 Credits & Collaboration
+### 🤝 Credits & Collaboration
 
  **The Future of Engineering is Human-AI Synergy.** > My workflows and systems are built and debugged in a high-speed collaboration with Google’s AI, proving that modern engineering is a continuous dialogue between human intuition and machine intelligence.
 
