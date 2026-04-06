@@ -35,7 +35,7 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
 
 ### **Core Infrastructure Highlights**
 
-> I maintain a private **K3s cluster** with a fully automated **GitOps pipeline**. All services are deployed via **ArgoCD** with strict environment separation (Staging/Production) and professional secret management.
+ I maintain a private **K3s cluster** with a fully automated **GitOps pipeline**. All services are deployed via **ArgoCD** with strict environment separation (Staging/Production) and professional secret management.
 
 -----
 
