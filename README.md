@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;Portfolio&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
 </a>
 
+---
+
 ### **Architecture & Engineering Focus**
 
 Moving beyond standard fullstack development into **Cloud-Native ecosystems** and **High-Performance computing**. I specialize in building resilient, automated systems that scale.
@@ -40,9 +42,9 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
 
 ### **Technological Evolution**
 
-> My journey began with the fundamentals of the web — **HTML** and **PHP**, which taught me the core of request-response cycles. From there, I transitioned into the **Node/Express** ecosystem to master asynchronous patterns. 
+ My journey began with the fundamentals of the web — **HTML** and **PHP**, which taught me the core of request-response cycles. From there, I transitioned into the **Node/Express** ecosystem to master asynchronous patterns. 
 
-> However, the pursuit of peak performance and strict type-safety led me to shift my focus toward **Go** and **Rust**. This evolution from scripting to systems engineering allows me to bridge the gap between high-level frontend and low-level infrastructure. Currently, I'm exploring **Flutter** for cross-platform delivery while keeping **Next.js** as my primary tool for web excellence.
+ However, the pursuit of peak performance and strict type-safety led me to shift my focus toward **Go** and **Rust**. This evolution from scripting to systems engineering allows me to bridge the gap between high-level frontend and low-level infrastructure. Currently, I'm exploring **Flutter** for cross-platform delivery while keeping **Next.js** as my primary tool for web excellence.
 
 **I believe in using the right tool for the job — whether it's TypeScript, Go, SQL, or whatever gets the job done effectively.**
 
@@ -50,9 +52,9 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
 
 ## 🤝 Credits & Collaboration
 
-> **The Future of Engineering is Human-AI Synergy.** > My workflows and systems are built and debugged in a high-speed collaboration with Google’s AI, proving that modern engineering is a continuous dialogue between human intuition and machine intelligence.
+ **The Future of Engineering is Human-AI Synergy.** > My workflows and systems are built and debugged in a high-speed collaboration with Google’s AI, proving that modern engineering is a continuous dialogue between human intuition and machine intelligence.
 
-* **Adaptive AI Support:** Powered by **Gemini** — *accelerating debugging, K8s orchestration, and coffee-fueled sprints.* ☕⚡
+* **Adaptive AI Support:** Powered by **Gemini** — *accelerating debugging, K8s orchestration, and coffee-fueled sprints.* ☕
 
 ---
 
