@@ -38,12 +38,6 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
 
  I maintain a private **K3s cluster** with a fully automated **GitOps pipeline**. All services are deployed via **ArgoCD** with strict environment separation (Staging/Production) and professional secret management.
 
-# **Technological Evolution**
-
- My journey began with the fundamentals of the web — **HTML** and **PHP**, which taught me the core of request-response cycles. From there, I transitioned into the **Node/Express** ecosystem to master asynchronous patterns. 
-
- However, the pursuit of peak performance and strict type-safety led me to shift my focus toward **Go** and **Rust**. This evolution from scripting to systems engineering allows me to bridge the gap between high-level frontend and low-level infrastructure. Currently, I'm exploring **Flutter** for cross-platform delivery while keeping **Next.js** as my primary tool for web excellence.
-
 # **The Stack I Master**
 
 [![My Skills](https://skillicons.dev/icons?i=go,rust,ts,js,python,bash,cs,php,nodejs,express,react,nextjs,vue,nuxtjs,tailwind,docker,kubernetes,linux,debian,redhat,git,github,githubactions,postgres,mysql,redis,vscode,pnpm,npm,powershell)](https://skillicons.dev)
