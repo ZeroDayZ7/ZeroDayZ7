@@ -28,11 +28,11 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
   * **Data Stores:** Redis, MySQL, PostgreSQL, MongoDB.
   * **Frontend:** Next.js, React, Tailwind CSS, Flutter.
 
-<div align="center">
+<!-- <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=86400&hide_border=true)
 
-</div>
+</div> -->
 
 # **Core Infrastructure Highlights**
 
