@@ -3,10 +3,6 @@
 <a href="mailto:zerodayz7@proton.me">
 <img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;ZeroDayZ7%40proton.me&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=protonmail&logoColor=white" alt="Email" />
 </a>
-<br>
-<a href="https://zerodayz7.github.io/portfolio/">
-<img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;Portfolio&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
-</a>
 
 # **Architecture, Engineering & Security Focus**
 
@@ -28,11 +24,6 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
   * **Data Stores:** Redis, MySQL, PostgreSQL, MongoDB.
   * **Frontend:** Next.js, React, Tailwind CSS, Flutter.
 
-<!-- <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=86400&hide_border=true)
-
-</div> -->
 
 # **Core Infrastructure Highlights**
 
