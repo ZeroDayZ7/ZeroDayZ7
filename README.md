@@ -4,13 +4,13 @@
 <img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;ZeroDayZ7%40proton.me&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=protonmail&logoColor=white" alt="Email" />
 </a>
 <br>
-<a href="https://zerodayz7.github.io/portfolio/">
+<!-- <a href="https://zerodayz7.github.io/portfolio/">
 <img src="https://img.shields.io/badge/&zwnj;&nbsp;&nbsp;&nbsp;Portfolio&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-&zwnj;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R⮟n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&zwnj;-skyblue?style=flat&logo=github&logoColor=white" alt="Email" />
-</a>
+</a> -->
 
 # **Architecture, Engineering & Security Focus**
 
-Moving beyond standard fullstack development into **Cloud-Native ecosystems** and **High-Performance computing**. I specialize in building resilient, automated systems that scale.
+Unstoppable execution: delivering exactly what the business infrastructure demands.
 
 * **Infrastructure as Code (IaC):** Architecting hybrid-cloud **K3s** clusters with **GitOps (ArgoCD)** for automated, state-driven infrastructure management.
 * **Security Operations (SOC):** Implementing threat detection and monitoring using **Wazuh (SIEM/XDR)**. Deploying agents for real-time integrity monitoring and vulnerability assessment.
@@ -28,15 +28,23 @@ Moving beyond standard fullstack development into **Cloud-Native ecosystems** an
   * **Data Stores:** Redis, MySQL, PostgreSQL, MongoDB.
   * **Frontend:** Next.js, React, Tailwind CSS, Flutter.
 
-<!-- <div align="center">
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayz7&layout=compact&langs_count=10&hide_title=true&theme=transparent&text_color=999999&cache_seconds=86400&hide_border=true)
 
-</div> -->
+</div>
 
 # **Core Infrastructure Highlights**
 
  I maintain a private **K3s cluster** with a fully automated **GitOps pipeline**. All services are deployed via **ArgoCD** with strict environment separation (Staging/Production) and professional secret management.
+
+<div align="center">
+
+[currently working on CSOD, watch it on YouTube](https://www.youtube.com/watch?v=6ByKxw4KVY8)
+
+</div>
+
+
 
 # **The Stack I Master**
 
