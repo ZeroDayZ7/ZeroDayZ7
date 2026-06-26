@@ -39,9 +39,9 @@ Unstoppable execution: delivering exactly what the business infrastructure deman
  I maintain a private **K3s cluster** with a fully automated **GitOps pipeline**. All services are deployed via **ArgoCD** with strict environment separation (Staging/Production) and professional secret management.
 
 <div align="center">
-
-[currently working on CSOD, watch it on YouTube](https://www.youtube.com/watch?v=6ByKxw4KVY8)
-
+  <a href="https://www.youtube.com/watch?v=6ByKxw4KVY8" target="_blank" rel="noopener noreferrer">
+    currently working on CSOD, watch it on YouTube
+  </a>
 </div>
 
 
